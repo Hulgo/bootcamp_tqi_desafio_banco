@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15340872-0ccd-4f0e-babc-746fb0f2cf71" name="Changes" comment="Pilares da Orientação a Objetos - Abstração;">
+    <list default="true" id="15340872-0ccd-4f0e-babc-746fb0f2cf71" name="Changes" comment="Pilares da Orientação a Objetos - Encapsulamento;">
+      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IConta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Banco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaPoupanca.java" afterDir="false" />
     </list>
@@ -17,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -50,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657398549664</updated>
-      <workItem from="1657398562058" duration="1902000" />
+      <workItem from="1657398562058" duration="2670000" />
     </task>
     <task id="LOCAL-00001" summary="Pilares da Orientação a Objetos - Abstração;">
       <created>1657399543908</created>
@@ -59,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657399543908</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Pilares da Orientação a Objetos - Encapsulamento;">
+      <created>1657401945448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657401945448</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pilares da Orientação a Objetos - Abstração;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pilares da Orientação a Objetos - Abstração;" />
+    <MESSAGE value="Pilares da Orientação a Objetos - Encapsulamento;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pilares da Orientação a Objetos - Encapsulamento;" />
   </component>
 </project>
