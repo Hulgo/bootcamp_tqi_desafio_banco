@@ -5,12 +5,19 @@ public abstract class Conta implements IConta {
     protected int agencia;
     protected int numero;
     protected double saldo;
+    protected Banco banco;
     protected Cliente cliente;
 
-    public Conta(Cliente cliente) {
+    protected String tipo;
+
+    public Conta(Banco banco, Cliente cliente, String tipo) {
         this.agencia = AGENCIA_PADRAO;
         this.numero = SEQUENCIAL++;
+        this.banco = banco;
+        banco.contas.add(this);
         this.cliente = cliente;
+        this.tipo = tipo;
+        this.saldo = 0.00;
     }
 
     @Override
@@ -46,5 +53,13 @@ public abstract class Conta implements IConta {
 
     public double getSaldo() {
         return saldo;
+    }
+
+    public Banco getBanco() {
+        return banco;
+    }
+
+    public void setBanco(Banco banco) {
+        this.banco = banco;
     }
 }

@@ -1,11 +1,12 @@
 public class Main {
 
     public static void main(String[] args){
+        Banco banco = new Banco("Cofrinho Bank");
 
         Cliente cliente1 = new Cliente("Hulgo");
         Cliente cliente2 = new Cliente("José");
-        Conta cc = new ContaCorrente(cliente1);
-        Conta cp = new ContaPoupanca(cliente2);
+        Conta cc = new ContaCorrente(banco, cliente1);
+        Conta cp = new ContaPoupanca(banco, cliente2);
 
         cc.imprimirExtrato();
 
@@ -24,6 +25,8 @@ public class Main {
         cc.imprimirExtrato();
 
         cp.imprimirExtrato();
+
+        banco.listarClientes();
     }
 
 }

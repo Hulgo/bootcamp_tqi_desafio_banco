@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15340872-0ccd-4f0e-babc-746fb0f2cf71" name="Changes" comment="Pilares da Orientação a Objetos - Polimorfismo;">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="15340872-0ccd-4f0e-babc-746fb0f2cf71" name="Changes" comment="Implementações da lista de clientes por Banco com retorno do tipo de conta;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Banco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaPoupanca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657398549664</updated>
-      <workItem from="1657398562058" duration="6979000" />
+      <workItem from="1657398562058" duration="10512000" />
     </task>
     <task id="LOCAL-00001" summary="Pilares da Orientação a Objetos - Abstração;">
       <created>1657399543908</created>
@@ -98,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657472909273</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Desenvolvendo Saque, Depósito, Transferência e Extrato das contas;">
+      <created>1657475905120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657475905120</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +125,8 @@
     <MESSAGE value="Pilares da Orientação a Objetos - Encapsulamento;" />
     <MESSAGE value="Pilares da Orientação a Objetos - Herança;" />
     <MESSAGE value="Pilares da Orientação a Objetos - Polimorfismo;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pilares da Orientação a Objetos - Polimorfismo;" />
+    <MESSAGE value="Desenvolvendo Saque, Depósito, Transferência e Extrato das contas;" />
+    <MESSAGE value="Implementações da lista de clientes por Banco com retorno do tipo de conta;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementações da lista de clientes por Banco com retorno do tipo de conta;" />
   </component>
 </project>
