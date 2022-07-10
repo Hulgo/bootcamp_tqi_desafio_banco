@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15340872-0ccd-4f0e-babc-746fb0f2cf71" name="Changes" comment="Pilares da Orientação a Objetos - Encapsulamento;">
-      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IConta.java" afterDir="false" />
+    <list default="true" id="15340872-0ccd-4f0e-babc-746fb0f2cf71" name="Changes" comment="Pilares da Orientação a Objetos - Herança;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaPoupanca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657398549664</updated>
-      <workItem from="1657398562058" duration="2670000" />
+      <workItem from="1657398562058" duration="4178000" />
     </task>
     <task id="LOCAL-00001" summary="Pilares da Orientação a Objetos - Abstração;">
       <created>1657399543908</created>
@@ -67,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657401945448</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pilares da Orientação a Objetos - Herança;">
+      <created>1657402668088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657402668088</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +91,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Pilares da Orientação a Objetos - Abstração;" />
     <MESSAGE value="Pilares da Orientação a Objetos - Encapsulamento;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pilares da Orientação a Objetos - Encapsulamento;" />
+    <MESSAGE value="Pilares da Orientação a Objetos - Herança;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pilares da Orientação a Objetos - Herança;" />
   </component>
 </project>
